@@ -1,2 +1,6 @@
 # Project-9
-JavaScript
+An card html and css view 
+using JavaScript
+
+# live demo 
+https://mohamedzaghlol.github.io/Project-9/
