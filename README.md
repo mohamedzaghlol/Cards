@@ -1,6 +1,6 @@
-# Project-9
+# Cards
 An card html and css view 
 using JavaScript
 
 # live demo 
-https://mohamedzaghlol.github.io/Project-9/
+https://mohamedzaghlol.github.io/Cards/
